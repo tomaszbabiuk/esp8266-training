@@ -6,7 +6,7 @@
 2. Open PlatformIO tab
 3. Click Home
 4. Choose "New project"
-	* Name: RoverFW
+	* Name: (project name)
 	* Board: Espressif ESP8266 ESP-12E
 	* Framework: Arduino
 
